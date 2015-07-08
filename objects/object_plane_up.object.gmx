@@ -34,7 +34,7 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="object__fruit">
+    <event eventtype="4" ename="base_fruit">
       <action>
         <libid>1</libid>
         <id>203</id>

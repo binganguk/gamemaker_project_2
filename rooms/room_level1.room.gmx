@@ -52,20 +52,20 @@
   </views>
   <instances>
     <instance objName="object_plane_up" x="320" y="224" name="inst_73A2D434" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="object__fruit" x="608" y="352" name="inst_81A6B0DF" locked="0" code="" scaleX="0.711111128330231" scaleY="0.711111128330231" colour="4294967295" rotation="0"/>
-    <instance objName="object__fruit" x="576" y="96" name="inst_3A474EE9" locked="0" code="" scaleX="0.426666676998138" scaleY="0.426666676998138" colour="4294967295" rotation="0"/>
-    <instance objName="object__fruit" x="640" y="544" name="inst_01CB1E78" locked="0" code="" scaleX="0.711111128330231" scaleY="0.430000007152557" colour="4294967295" rotation="0"/>
-    <instance objName="object__fruit" x="800" y="224" name="inst_DD3675D9" locked="0" code="" scaleX="0.568888902664185" scaleY="0.995555579662323" colour="4294967295" rotation="0"/>
-    <instance objName="object__fruit" x="960" y="64" name="inst_F7E9E6FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_fruit_sexy" x="288" y="128" name="inst_A411A970" locked="0" code="" scaleX="0.598130822181702" scaleY="0.551724135875702" colour="4294967295" rotation="0"/>
     <instance objName="object_fruit_sexy" x="256" y="352" name="inst_59D3B629" locked="0" code="" scaleX="0.598130822181702" scaleY="0.551724135875702" colour="4294967295" rotation="0"/>
     <instance objName="object_fruit_sexy" x="736" y="288" name="inst_A08E5F70" locked="0" code="" scaleX="0.598130822181702" scaleY="0.551724135875702" colour="4294967295" rotation="0"/>
     <instance objName="object_cloud" x="544" y="32" name="inst_A24EC48F" locked="0" code="" scaleX="0.477611929178238" scaleY="0.307692319154739" colour="4294967295" rotation="0"/>
     <instance objName="object_cloud" x="32" y="32" name="inst_F7FDC3EA" locked="0" code="" scaleX="0.358208954334259" scaleY="0.307692319154739" colour="4294967295" rotation="0"/>
     <instance objName="object_cloud" x="224" y="0" name="inst_6CD86238" locked="0" code="" scaleX="0.477611929178238" scaleY="0.461538463830948" colour="4294967295" rotation="0"/>
-    <instance objName="object_cloud" x="352" y="-32" name="inst_AEDFAA72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="object_cloud" x="320" y="-64" name="inst_AEDFAA72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="object_cloud" x="288" y="0" name="inst_039E9ADB" locked="0" code="" scaleX="0.597014904022217" scaleY="0.615384638309479" colour="4294967295" rotation="0"/>
     <instance objName="object_cloud" x="96" y="0" name="inst_4CDDD2FB" locked="0" code="" scaleX="0.597014904022217" scaleY="0.461538463830948" colour="4294967295" rotation="0"/>
+    <instance objName="object_fruit" x="192" y="160" name="inst_D229FF71" locked="0" code="" scaleX="0.426666676998138" scaleY="0.426666676998138" colour="4294967295" rotation="0"/>
+    <instance objName="object_fruit" x="448" y="288" name="inst_BDA2C8C7" locked="0" code="" scaleX="0.284444451332092" scaleY="0.284444451332092" colour="4294967295" rotation="0"/>
+    <instance objName="object_fruit" x="96" y="288" name="inst_39594E65" locked="0" code="" scaleX="0.284444451332092" scaleY="0.284444451332092" colour="4294967295" rotation="0"/>
+    <instance objName="object_pear" x="608" y="256" name="inst_10D4059E" locked="0" code="" scaleX="0.440366983413696" scaleY="0.49230769276619" colour="4294967295" rotation="0"/>
+    <instance objName="object_pear" x="224" y="224" name="inst_DA465B72" locked="0" code="" scaleX="0.293577969074249" scaleY="0.49230769276619" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>0</PhysicsWorld>

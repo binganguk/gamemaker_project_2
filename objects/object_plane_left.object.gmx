@@ -5,10 +5,10 @@
   <visible>-1</visible>
   <depth>0</depth>
   <persistent>0</persistent>
-  <parentName>object_plane</parentName>
+  <parentName>base_plane</parentName>
   <maskName>&lt;undefined&gt;</maskName>
   <events>
-    <event eventtype="4" ename="object__fruit">
+    <event eventtype="4" ename="base_fruit">
       <action>
         <libid>1</libid>
         <id>203</id>
