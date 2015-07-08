@@ -14,6 +14,9 @@
     <sprite>sprites\sprite_bullet_right</sprite>
     <sprite>sprites\sprite_bullet_left</sprite>
     <sprite>sprites\sprite_bullet_up</sprite>
+    <sprite>sprites\sprite_fruit</sprite>
+    <sprite>sprites\ssprite_fruit_sexy</sprite>
+    <sprite>sprites\sprite_cloud</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -28,6 +31,9 @@
     <object>objects\object_bullet_left</object>
     <object>objects\object_plane</object>
     <object>objects\object_bullet</object>
+    <object>objects\object__fruit</object>
+    <object>objects\object_fruit_sexy</object>
+    <object>objects\object_cloud</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room_level1</room>
